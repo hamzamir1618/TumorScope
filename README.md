@@ -15,13 +15,13 @@ TumorScope/
 ├── newtesting.ipynb        # Notebook to test & evaluate using trained model
 │
 ├── organize.py             # Organizes full dataset into yes/no subfolders
-├── organize\_sample.py      # Organizes a smaller sample dataset (for quick testing)
+├── organize_sample.py      # Organizes a smaller sample dataset (for quick testing)
 ├── split.py                # Splits cleaned dataset into train/val/test folders
 │
-├── best\_model.pth          # Trained model (placeholder, link below)
-├── testing\_data/           # Raw dataset (placeholder, link below)
+├── best_model.pth          # Trained model (placeholder, link below)
+├── testing_data           # Raw dataset (placeholder, link below)
 └── README.md
-
+```
 
 ---
 
