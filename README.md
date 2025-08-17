@@ -67,8 +67,6 @@ TumorScope/
 - Trained Model (`best_model.pth`): https://drive.google.com/file/d/1X-geJskc8Rkuh6FLV0kBKC5ih8G0Izy4/view?usp=sharing
 - Raw Dataset (`testing_data`): https://drive.google.com/file/d/1AJ2UnkZaOxx7LiCuRKZnT-CCwJvuzFaQ/view?usp=sharing
 
-(Replace with actual links once uploaded)
-
 ---
 
 ## Dependencies
