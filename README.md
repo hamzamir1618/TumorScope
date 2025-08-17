@@ -1,4 +1,3 @@
-```markdown
 # TumorScope
 
 TumorScope is a deep learning project for tumor classification using ResNet18.  
@@ -23,7 +22,6 @@ TumorScope/
 ├── testing\_data/           # Raw dataset (placeholder, link below)
 └── README.md
 
-````
 
 ---
 
@@ -98,7 +96,7 @@ TumorScope requires the following Python packages:
    ```bash
    git clone https://github.com/hamzamir1618/TumorScope.git
    cd TumorScope
-````
+
 
 2. Install dependencies:
 
