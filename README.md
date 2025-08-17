@@ -44,7 +44,7 @@ TumorScope/
 2. **Data Splitting**
    - Run `split.py` to divide the cleaned dataset into:
      ```
-     dataset_cleaned_split/
+     split_dataset/
      ├── train/
      ├── val/
      └── test/
